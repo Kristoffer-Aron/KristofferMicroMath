@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace KristofferMicroMath
 {
-    internal class Pizza
+    public class Pizza
     {
             public int PizzaNr { get; set; }
             public String Name { get; set; }
