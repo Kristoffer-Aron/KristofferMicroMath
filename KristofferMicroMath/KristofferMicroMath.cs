@@ -23,5 +23,10 @@ namespace KristofferMicroMath
         {
             return t1 + t2 + t3; //Add 3 numbers Adding Extra Comment
         }
+
+        public int Subtract(int t1, int t2)
+        {
+            return t1 - t2;
+        }
     }
 }
