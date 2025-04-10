@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace KristofferMicroMath
 {
-    internal class Customer
+    public class Customer
     {
+
     }
 }
