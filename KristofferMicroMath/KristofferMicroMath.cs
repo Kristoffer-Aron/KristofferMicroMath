@@ -8,6 +8,12 @@ namespace KristofferMicroMath
 {
     public class KristofferMicroMath
     {
+        /// <summary>
+        /// Add two numbers together into one sum.
+        /// </summary>
+        /// <param name="t1">First number</param>
+        /// <param name="t2">Second number</param>
+        /// <returns>Sum of both numbers</returns>
         public int Add(int t1, int t2)
         {
             return t1 + t2;
