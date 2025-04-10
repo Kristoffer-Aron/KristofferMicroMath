@@ -8,6 +8,7 @@ namespace KristofferMicroMath
 {
     public class Pizza
     {
+
         public int PizzaNr { get; set; }
         public String Name { get; set; }
         public String Size { get; set; }
