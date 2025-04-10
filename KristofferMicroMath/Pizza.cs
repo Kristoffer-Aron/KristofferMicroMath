@@ -36,3 +36,4 @@ namespace KristofferMicroMath
 
 
 //dette er skrevet i pizza
+//happy now?
