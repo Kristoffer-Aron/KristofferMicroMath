@@ -29,5 +29,7 @@ namespace KristofferMicroMath
             return t1 - t2;
         }
         //Tillykke med fødselsdagen (om sådan to dage) Alexander!!
+
+        //Added a comment locally in FeatureA
     }
 }
